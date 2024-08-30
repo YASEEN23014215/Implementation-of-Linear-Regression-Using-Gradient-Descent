@@ -23,8 +23,8 @@ Step 6: End the program.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: SANDHIYA P
-RegisterNumber: 212223230183 
+Developed by: Yaseen F
+RegisterNumber: 212223220126
 */
 import numpy as np
 import pandas as pd
