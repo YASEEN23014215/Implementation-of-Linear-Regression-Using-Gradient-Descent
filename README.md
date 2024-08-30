@@ -23,8 +23,8 @@ Step 6: End the program.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: Yaseen F
-RegisterNumber: 212223220126
+Developed by: SANDHIYA P
+RegisterNumber: 212223230183 
 */
 import numpy as np
 import pandas as pd
@@ -81,11 +81,6 @@ print(f"Predicted value: {pre}")
 ## data.head()
 ![image](https://github.com/user-attachments/assets/43b794b9-c316-4412-a99f-b46b6f6015d6)
 
-## X value
-![image](https://github.com/user-attachments/assets/a67556dc-4c7d-4930-b765-9b9ea7598e9f)
-
-## X1_scaled Value
-![image](https://github.com/user-attachments/assets/40849c1e-9afd-42da-8396-bce0edc58385)
 
 ## Predicted Value
 ![image](https://github.com/user-attachments/assets/7a252472-f192-42fc-89e0-77e92173f59f)
